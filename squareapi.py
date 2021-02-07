@@ -22,7 +22,7 @@ from square.client import Client
  
 client = Client(
     square_version='2021-01-21',
-    access_token='EAAAELRZ3VEDn_p7HqBimVYAm2jpMRzdd44_kkK_tD5sN9Ny8xFB-Sx9PfKRKc6P',
+    access_token='{{ PUT YOUR TOKEN HERE }}',
     environment='production',
 )
 
